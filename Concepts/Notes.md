@@ -1,0 +1,3 @@
+- [Spatial Autocorrelation](https://www.youtube.com/watch?v=EotbDebRnFg&list=PLzREt6r1Nenlhem2yDti1wATHnt0XE9-Q&index=4)   
+  - Rejection of Spatial randomness: Is a rich neighbourhood likely to be surrounded by a rich neighbourhood?
+  - Are distribution of good stores random or structured? Conduct EDA prior to further analysis.
