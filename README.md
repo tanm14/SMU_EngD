@@ -7,3 +7,6 @@ Software
 - Geoda -> http://geodacenter.github.io/download_windows.html
   - https://www.youtube.com/user/GeoDaCenter/videos
   - https://spatial.uchicago.edu/  
+
+Dataset
+- [Gowalla](http://www.yongliu.org/datasets) 
