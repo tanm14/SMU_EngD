@@ -8,6 +8,9 @@ Software
   - https://www.youtube.com/user/GeoDaCenter/videos
   - https://spatial.uchicago.edu/  
 
+Suitable Journals
+- [Elsevier Journal Finder](https://journalfinder.elsevier.com/)
+
 Dataset
 - [Gowalla](http://www.yongliu.org/datasets) 
 
