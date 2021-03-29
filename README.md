@@ -10,3 +10,7 @@ Software
 
 Dataset
 - [Gowalla](http://www.yongliu.org/datasets) 
+
+Repo
+- [Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
+- [Communities from Road Network](https://coolum001.github.io/jupyterblog.html)
