@@ -13,6 +13,7 @@ Suitable Journals
 
 Dataset
 - [Gowalla](http://www.yongliu.org/datasets) 
+- [Japan Shpfiles](https://hokkaidowilds.org/demystifying-japan-official-topographical-map-shapefiles) 
 
 Repo
 - [Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
